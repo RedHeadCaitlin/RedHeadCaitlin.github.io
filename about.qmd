@@ -1,0 +1,44 @@
+---
+title: "About Me"
+format:
+  html:
+    toc: false
+    code-tools:
+      source: true
+      toggle: false
+      caption: none
+---
+
+::: column-margin
+![](Images_files%5Clalapalooza1.jpg){width="145"}
+:::
+
+::: {.profile-header layout="[30,70]"}
+::: column
+![](Images_files%5Cmonumentvalley.jpg){width="216"}
+:::
+
+::: column
+I grew up in Downers Grove, a suburb of Chicago.
+
+I enjoyed playing tennis and golf in high school and continued playing with friends through college.
+
+Hiking and camping, crochet and embroidery, and 3D modeling are among my favorite hobbies.
+
+I love plants and their cultivation. One day when I have a house, I hope to grow as many fruit trees, herbs, and flowers as I can.
+
+:::
+:::
+
+In my time at the University of Alabama, I learned a lot about the world of academic research. I was also the vice president of the Outdoor Adventures Club, helping to organize caving trips and hikes for the club's hundreds of members.  During my internships with Syngenta I experienced the industry side of research, which has been invaluable as I progress through my professional journey. I am excited to continue my on this path in Dr. Chavez's lab at UGA, where I will be contributing to genetic and phenotypic research on peaches.
+
+I look forward to seeing what's next as I continue to explore the fields of agriculture and horticulture!
+
+## Achievements
+
+-   Recipient of University of Alabama's Presidential Scholarship
+-   Graduated Summa Cum Laude
+-   Vice President of the Outdoor Adventures Club
+-   Presented at UA's URCA conference and at Botany Conference 2021
+-   Recipient of University of Georgia's Graduate Student Fellowship
+

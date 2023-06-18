@@ -1,0 +1,32 @@
+---
+title: "Caitlin McCann"
+#toc: true
+#toc-title: "About Me"
+#toc-location: left
+#format:
+#  html: default
+#title-block-banner: true
+#theme: solar
+#data: embed-resources
+---
+
+::: {.profile-header layout="[30,70]"}
+
+![](Images_files\caitlinpic.png){.center width="290"}
+
+
+## Hello!
+
+My name is Caitlin McCann and I am a current Master's student studying horticulture in the University of Georgia's Institute of Plant Breeding, Genetics, and Genomics. I am an alumnus of the University of Alabama, where I earned a BS in Biology with a minor in Blount/Liberal Arts. - You can access my resume [here](Images_files\2023 McCann Resume (1).pdf)
+
+::: {layout-nrow="3"}
+[![](https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black.png){.center width="57"}](https://www.instagram.com/redheadcaitlin/) [![](https://static.vecteezy.com/system/resources/previews/018/930/585/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png){.center width="61"}](https://www.linkedin.com/in/caitlinmccann2020/) [![](https://static.sketchfab.com/img/press/logos/sketchfab-logo-black.png){.center width="40"}](https://sketchfab.com/RedHeadCaitlin)
+:::
+
+:::
+
+::: column-margin
+![](Images_files\1-pink-flowers-animated.gif){width="145"}
+
+<p><a href="https://www.fg-a.com">GIF credit</a></p>
+:::

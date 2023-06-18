@@ -1,0 +1,27 @@
+---
+title: "Education"
+format: html
+editor: visual
+---
+
+::: column-margin
+![](Images_files\neat hair1024_1.jpg){width="145"}
+:::
+
+I attended the University of Alabama from 2019 to 2023, graduating Summa Cum Laude with a BS in Biology and a minor in Blount/Liberal Arts.
+
+I was part of the [Blount Scholars Program](https://blount.as.ua.edu/), as well as vice president of the Outdoor Adventures Club and a member of the General Art Club.
+
+In the Spring of 2022 I studied abroad at [Maynooth University](https://www.maynoothuniversity.ie/) in Ireland.
+
+I am currently pursuing a master's degree at the University of Georgia. I am working in the lab of Dr. Dario Chavez under the umbrella of the Institute of Plant Breeding, Genetics, and Genomics.
+
+### Labs
+
+During my time at UA I was a member of two labs; I worked with Dr. McKain studying invasive Johnson grass and with Dr. Benstead investigating freshwater macro invertebrate ecology.
+
+**In the McKain lab**, I worked with a team of graduate and undergraduate students to collect samples, isolate DNA, and construct genetic libraries with the goal of understanding the mode of invasion of Johnson grass in the southeastern United States. A fellow undergraduate and I presented [this poster](Images_files\Busby_McCann_Botany2021_final.pdf) at UA's Undergraduate Research and Creative Activities conference.
+
+**In the Benstead lab**, I worked with a PhD student to sort through freshwater stream samples and isolate macro invertebrates. The goal of the project was to determine the effect of stream warming on invertebrate populations and, by extension, freshwater ecosystems as a whole.
+
+**In the Chavez lab**, I am currently working to assemble a phylogeny of peach cultivars.
